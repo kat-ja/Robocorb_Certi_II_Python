@@ -5,8 +5,13 @@ Documentation     Orders robots from RobotSpareBin Industries Inc.
 ...               Embeds the screenshot of the robot to the PDF receipt.
 ...               Creates ZIP archive of the receipts and the images.
 
-
+Library           Orders
+   
 
 *** Tasks ***
 Order robots from RobotSpareBin Industries Inc
-    Open the robot order website
+    Open website and close modal   https://robotsparebinindustries.com/#/robot-order
+    Get Orders
+    
+
+
